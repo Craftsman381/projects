@@ -1,5 +1,5 @@
 # covid-safety-detection with SafetyNet Model
-This is custom model for detecting person with uncoverd face in midst of covid-19.
+This is custom model for detecting the person with uncovered faces in midst of COVID-19.
 This code is inspired by **Adrian Rosebrock** founder of [@pyimagesearch](https://www.pyimagesearch.com/).
 
 ## Demo Video
