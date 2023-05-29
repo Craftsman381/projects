@@ -33,11 +33,11 @@ I think I would spend more time on creating new features that will definitely he
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![Train Scores New Features](cd0385-project-starter/project/new_features_score.png)
+![Train Scores New Features](img/new_features_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![Model Scores Kaggle](cd0385-project-starter/project/model_test_score.png)
+![Model Scores Kaggle](img/model_test_score.png)
 
 ## Summary
 In this project, we have explored following steps in the ML Lifecycle.
